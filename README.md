@@ -91,11 +91,3 @@ Frontend Web Development Enthusiast
 
 Suggestions and improvements are always welcome.
 Feel free to fork the repository and enhance the project.
-
-
-Run these commands in your project folder:
-
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
